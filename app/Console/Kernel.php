@@ -15,7 +15,7 @@ class Kernel extends ConsoleKernel
     protected function schedule(Schedule $schedule)
     {
         $schedule->command('scrap:prices')->everyTwoHours();
-        $schedule->command('scrap:Fuelprices')->everyWeek();
+        // $schedule->command('scrap:Fuelprices')->everyWeek();
         $schedule->command('scrap:Fuelprices')->monthlyOn(2, '00:00');
         $schedule->command('scrap:Fuelprices')->monthlyOn(16, '00:00');
 
