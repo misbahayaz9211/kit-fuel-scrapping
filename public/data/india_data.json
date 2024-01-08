@@ -1,0 +1,64 @@
+{
+    "country": "India",
+    "data": {
+        "Diesel prices": {
+            "Date": "25.12.2023",
+            "Currency": "93.475",
+            "USD": "1.123"
+        },
+        "Gasoline prices": {
+            "Date": "25.12.2023",
+            "Currency": "104.183",
+            "USD": "1.252"
+        },
+        "Methane prices": {
+            "Date": "25.12.2023",
+            "Currency": "75.795",
+            "USD": "0.911"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "25.12.2023",
+            "Currency": "52.093",
+            "USD": "0.626"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "25.12.2023",
+            "Currency": "56.543",
+            "USD": "0.679"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "6.47",
+            "USD": "0.078"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "9.67",
+            "USD": "0.116"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "5.01",
+            "USD": "0.06 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "5",
+            "USD": "0.06 USD"
+        }
+    }
+}

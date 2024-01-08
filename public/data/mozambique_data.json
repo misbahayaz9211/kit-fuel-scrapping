@@ -1,0 +1,37 @@
+{
+    "country": "Mozambique",
+    "data": {
+        "Diesel prices": {
+            "Date": "18.09.2023",
+            "Currency": "91.23",
+            "USD": "1.428"
+        },
+        "Gasoline prices": {
+            "Date": "18.09.2023",
+            "Currency": "86.25",
+            "USD": "1.35"
+        },
+        "Methane prices": "",
+        "Ethanol prices": "",
+        "Kerosene prices": {
+            "Date": "18.09.2023",
+            "Currency": "71.37",
+            "USD": "1.117"
+        },
+        "Heating Oil prices": "",
+        "LPG prices": ""
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "8.122",
+            "USD": "0.127"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "5.117",
+            "USD": "0.08"
+        }
+    },
+    "naturalGasPrices": []
+}

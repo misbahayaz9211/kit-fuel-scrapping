@@ -1,0 +1,64 @@
+{
+    "country": "Ghana",
+    "data": {
+        "Diesel prices": {
+            "Date": "06.11.2023",
+            "Currency": "13.4",
+            "USD": "1.122"
+        },
+        "Gasoline prices": {
+            "Date": "06.11.2023",
+            "Currency": "12.63",
+            "USD": "1.058"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "06.11.2023",
+            "Currency": "11.021",
+            "USD": "0.923"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "1.15",
+            "USD": "0.096"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1.315",
+            "USD": "0.11"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

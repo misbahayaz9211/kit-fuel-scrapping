@@ -1,0 +1,64 @@
+{
+    "country": "Cape-Verde",
+    "data": {
+        "Diesel prices": {
+            "Date": "20.11.2023",
+            "Currency": "139.7",
+            "USD": "1.374"
+        },
+        "Gasoline prices": {
+            "Date": "20.11.2023",
+            "Currency": "142",
+            "USD": "1.397"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "20.11.2023",
+            "Currency": "154.6",
+            "USD": "1.521"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "31.76",
+            "USD": "0.312"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "20.3",
+            "USD": "0.2"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "country": "Sri-Lanka",
+    "data": {
+        "Diesel prices": {
+            "Date": "16.10.2023",
+            "Currency": "351",
+            "USD": "1.082"
+        },
+        "Gasoline prices": {
+            "Date": "16.10.2023",
+            "Currency": "420",
+            "USD": "1.295"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "16.10.2023",
+            "Currency": "242",
+            "USD": "0.746"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "43.4",
+            "USD": "0.134"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "33.314",
+            "USD": "0.103"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

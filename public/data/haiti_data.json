@@ -1,0 +1,64 @@
+{
+    "country": "Haiti",
+    "data": {
+        "Diesel prices": {
+            "Date": "20.11.2023",
+            "Currency": "163.787",
+            "USD": "1.236"
+        },
+        "Gasoline prices": {
+            "Date": "20.11.2023",
+            "Currency": "147.936",
+            "USD": "1.116"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "20.11.2023",
+            "Currency": "162.466",
+            "USD": "1.226"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

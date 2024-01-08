@@ -1,0 +1,64 @@
+{
+    "country": "Albania",
+    "data": {
+        "Diesel prices": {
+            "Date": "02.10.2023",
+            "Currency": "199",
+            "USD": "1.965"
+        },
+        "Gasoline prices": {
+            "Date": "02.10.2023",
+            "Currency": "197",
+            "USD": "1.946"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "02.10.2023",
+            "Currency": "62",
+            "USD": "0.612"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "11.4",
+            "USD": "0.113"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "12.65",
+            "USD": "0.125"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "country": "Nigeria",
+    "data": {
+        "Gasoline prices": {
+            "Date": "18.09.2023",
+            "Currency": "617",
+            "USD": "0.795"
+        },
+        "Diesel prices": {
+            "Date": "18.09.2023",
+            "Currency": "844.28",
+            "USD": "1.087"
+        },
+        "Kerosene prices": {
+            "Date": "18.09.2023",
+            "Currency": "1206.05",
+            "USD": "1.553"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "22.55",
+            "USD": "0.029"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "36.15",
+            "USD": "0.047"
+        }
+    },
+    "naturalGasPrices": []
+}

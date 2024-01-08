@@ -1,0 +1,64 @@
+{
+    "country": "Mali",
+    "data": {
+        "Diesel prices": {
+            "Date": "02.10.2023",
+            "Currency": "864",
+            "USD": "1.381"
+        },
+        "Gasoline prices": {
+            "Date": "02.10.2023",
+            "Currency": "866",
+            "USD": "1.384"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "131.08",
+            "USD": "0.21"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "94.93",
+            "USD": "0.152"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

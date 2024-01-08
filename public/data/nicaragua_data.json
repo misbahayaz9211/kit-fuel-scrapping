@@ -1,0 +1,64 @@
+{
+    "country": "Nicaragua",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "43.21",
+            "USD": "1.177"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "48.98",
+            "USD": "1.335"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "11.12.2023",
+            "Currency": "51.12",
+            "USD": "1.393"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "6.414",
+            "USD": "0.175"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "8.2",
+            "USD": "0.223"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

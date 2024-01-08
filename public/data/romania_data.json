@@ -1,0 +1,64 @@
+{
+    "country": "Romania",
+    "data": {
+        "Diesel prices": {
+            "Date": "27.11.2023",
+            "Currency": "7.251",
+            "USD": "1.604"
+        },
+        "Gasoline prices": {
+            "Date": "27.11.2023",
+            "Currency": "6.586",
+            "USD": "1.457"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "27.11.2023",
+            "Currency": "7.167",
+            "USD": "1.585"
+        },
+        "LPG prices": {
+            "Date": "27.11.2023",
+            "Currency": "3.394",
+            "USD": "0.751"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.8",
+            "USD": "0.177"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1.045",
+            "USD": "0.231"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

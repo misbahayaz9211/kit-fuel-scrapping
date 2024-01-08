@@ -1,0 +1,64 @@
+{
+    "country": "Bhutan",
+    "data": {
+        "Diesel prices": {
+            "Date": "16.10.2023",
+            "Currency": "80.19",
+            "USD": "0.963"
+        },
+        "Gasoline prices": {
+            "Date": "16.10.2023",
+            "Currency": "74.13",
+            "USD": "0.891"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "1.28",
+            "USD": "0.015"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1.63",
+            "USD": "0.02"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

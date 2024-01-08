@@ -1,0 +1,64 @@
+{
+    "country": "Turkey",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "35.434",
+            "USD": "1.221"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "32.977",
+            "USD": "1.136"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "11.12.2023",
+            "Currency": "31.787",
+            "USD": "1.095"
+        },
+        "Heating Oil prices": {
+            "Date": "11.12.2023",
+            "Currency": "25.663",
+            "USD": "0.884"
+        },
+        "LPG prices": {
+            "Date": "11.12.2023",
+            "Currency": "18.648",
+            "USD": "0.642"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "1.92",
+            "USD": "0.066"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "4.28",
+            "USD": "0.147"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.468",
+            "USD": "0.016 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1.293",
+            "USD": "0.045 USD"
+        }
+    }
+}

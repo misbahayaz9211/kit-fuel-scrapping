@@ -1,0 +1,17 @@
+{
+    "country": "Armenia",
+    "data": [],
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "39.98",
+            "USD": "0"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "32.48",
+            "USD": "0"
+        }
+    },
+    "naturalGasPrices": []
+}

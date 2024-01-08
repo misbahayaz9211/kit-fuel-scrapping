@@ -1,0 +1,64 @@
+{
+    "country": "Jamaica",
+    "data": {
+        "Diesel prices": {
+            "Date": "02.10.2023",
+            "Currency": "225.839",
+            "USD": "1.458"
+        },
+        "Gasoline prices": {
+            "Date": "02.10.2023",
+            "Currency": "234.024",
+            "USD": "1.511"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "02.10.2023",
+            "Currency": "230.474",
+            "USD": "1.488"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "50.434",
+            "USD": "0.326"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "42.69",
+            "USD": "0.276"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

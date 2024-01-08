@@ -1,0 +1,22 @@
+{
+    "country": "Guinea",
+    "data": {
+        "Diesel prices": {
+            "Date": "18.09.2023",
+            "Currency": "12000",
+            "USD": "1.386"
+        },
+        "Gasoline prices": {
+            "Date": "18.09.2023",
+            "Currency": "12000",
+            "USD": "1.386"
+        },
+        "Methane prices": "",
+        "Ethanol prices": "",
+        "Kerosene prices": "",
+        "Heating Oil prices": "",
+        "LPG prices": ""
+    },
+    "electricityPrices": [],
+    "naturalGasPrices": []
+}

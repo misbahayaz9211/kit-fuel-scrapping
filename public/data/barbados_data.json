@@ -1,0 +1,64 @@
+{
+    "country": "Barbados",
+    "data": {
+        "Diesel prices": {
+            "Date": "04.12.2023",
+            "Currency": "3.33",
+            "USD": "1.649"
+        },
+        "Gasoline prices": {
+            "Date": "04.12.2023",
+            "Currency": "4.08",
+            "USD": "2.021"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "04.12.2023",
+            "Currency": "1.71",
+            "USD": "0.847"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.574",
+            "USD": "0.284"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.612",
+            "USD": "0.303"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.189",
+            "USD": "0.094 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.241",
+            "USD": "0.119 USD"
+        }
+    }
+}

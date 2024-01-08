@@ -1,0 +1,64 @@
+{
+    "country": "Morocco",
+    "data": {
+        "Diesel prices": {
+            "Date": "20.11.2023",
+            "Currency": "14",
+            "USD": "1.382"
+        },
+        "Gasoline prices": {
+            "Date": "20.11.2023",
+            "Currency": "15.5",
+            "USD": "1.53"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "1.172",
+            "USD": "0.116"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1.072",
+            "USD": "0.106"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

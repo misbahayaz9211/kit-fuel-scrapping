@@ -1,0 +1,64 @@
+{
+    "country": "Germany",
+    "data": {
+        "Diesel prices": {
+            "Date": "27.11.2023",
+            "Currency": "1.728",
+            "USD": "1.9"
+        },
+        "Gasoline prices": {
+            "Date": "27.11.2023",
+            "Currency": "1.743",
+            "USD": "1.916"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "27.11.2023",
+            "Currency": "1.141",
+            "USD": "1.254"
+        },
+        "LPG prices": {
+            "Date": "27.11.2023",
+            "Currency": "1.033",
+            "USD": "1.136"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.393",
+            "USD": "0.432"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.418",
+            "USD": "0.46"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.137",
+            "USD": "0.151 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.125",
+            "USD": "0.137 USD"
+        }
+    }
+}

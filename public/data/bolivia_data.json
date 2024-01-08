@@ -1,0 +1,64 @@
+{
+    "country": "Bolivia",
+    "data": {
+        "Diesel prices": {
+            "Date": "04.12.2023",
+            "Currency": "3.72",
+            "USD": "0.538"
+        },
+        "Gasoline prices": {
+            "Date": "04.12.2023",
+            "Currency": "3.74",
+            "USD": "0.541"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "04.12.2023",
+            "Currency": "2.72",
+            "USD": "0.394"
+        },
+        "Heating Oil prices": {
+            "Date": "04.12.2023",
+            "Currency": "1.1",
+            "USD": "0.159"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

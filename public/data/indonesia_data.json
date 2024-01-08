@@ -1,0 +1,64 @@
+{
+    "country": "Indonesia",
+    "data": {
+        "Diesel prices": {
+            "Date": "16.10.2023",
+            "Currency": "17920",
+            "USD": "1.143"
+        },
+        "Gasoline prices": {
+            "Date": "16.10.2023",
+            "Currency": "15448",
+            "USD": "0.986"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "1444.7",
+            "USD": "0.092"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1114.7",
+            "USD": "0.071"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

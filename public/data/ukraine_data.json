@@ -1,0 +1,64 @@
+{
+    "country": "Ukraine",
+    "data": {
+        "Diesel prices": {
+            "Date": "25.09.2023",
+            "Currency": "56.63",
+            "USD": "1.533"
+        },
+        "Gasoline prices": {
+            "Date": "25.09.2023",
+            "Currency": "56.268",
+            "USD": "1.524"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "25.09.2023",
+            "Currency": "25.927",
+            "USD": "0.702"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "1.44",
+            "USD": "0.039"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "3.966",
+            "USD": "0.107"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "0.89",
+            "USD": "0.024 USD"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "3.23",
+            "USD": "0.087 USD"
+        }
+    }
+}

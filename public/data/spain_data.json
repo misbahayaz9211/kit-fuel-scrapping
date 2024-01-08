@@ -1,0 +1,64 @@
+{
+    "country": "Spain",
+    "data": {
+        "Diesel prices": {
+            "Date": "20.11.2023",
+            "Currency": "1.557",
+            "USD": "1.703"
+        },
+        "Gasoline prices": {
+            "Date": "20.11.2023",
+            "Currency": "1.584",
+            "USD": "1.733"
+        },
+        "Methane prices": {
+            "Date": "20.11.2023",
+            "Currency": "1.173",
+            "USD": "1.283"
+        },
+        "Ethanol prices": {
+            "Date": "20.11.2023",
+            "Currency": "1.977",
+            "USD": "2.163"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "20.11.2023",
+            "Currency": "1.088",
+            "USD": "1.19"
+        },
+        "LPG prices": {
+            "Date": "20.11.2023",
+            "Currency": "0.941",
+            "USD": "1.029"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.213",
+            "USD": "0.233"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.179",
+            "USD": "0.196"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.16",
+            "USD": "0.175 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.127",
+            "USD": "0.139 USD"
+        }
+    }
+}

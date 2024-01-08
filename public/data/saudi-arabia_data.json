@@ -1,0 +1,64 @@
+{
+    "country": "Saudi-Arabia",
+    "data": {
+        "Diesel prices": {
+            "Date": "20.11.2023",
+            "Currency": "0.75",
+            "USD": "0.2"
+        },
+        "Gasoline prices": {
+            "Date": "20.11.2023",
+            "Currency": "2.33",
+            "USD": "0.621"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "20.11.2023",
+            "Currency": "0.93",
+            "USD": "0.248"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "20.11.2023",
+            "Currency": "0.95",
+            "USD": "0.253"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.18",
+            "USD": "0.048"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.257",
+            "USD": "0.069"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

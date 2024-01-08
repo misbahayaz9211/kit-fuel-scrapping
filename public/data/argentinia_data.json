@@ -1,0 +1,14 @@
+{
+    "country": "Argentinia",
+    "data": {
+        "Diesel prices": "",
+        "Gasoline prices": "",
+        "Methane prices": "",
+        "Ethanol prices": "",
+        "Kerosene prices": "",
+        "Heating Oil prices": "",
+        "LPG prices": ""
+    },
+    "electricityPrices": [],
+    "naturalGasPrices": []
+}

@@ -1,0 +1,64 @@
+{
+    "country": "Japan",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "154.3",
+            "USD": "1.061"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "174.7",
+            "USD": "1.201"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "11.12.2023",
+            "Currency": "116.2",
+            "USD": "0.799"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "30.966",
+            "USD": "0.213"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "31.76",
+            "USD": "0.218"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "9.756",
+            "USD": "0.067 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "15.84",
+            "USD": "0.109 USD"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "country": "Finland",
+    "data": {
+        "Diesel prices": {
+            "Date": "02.10.2023",
+            "Currency": "2.039",
+            "USD": "2.134"
+        },
+        "Gasoline prices": {
+            "Date": "02.10.2023",
+            "Currency": "2.026",
+            "USD": "2.121"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "02.10.2023",
+            "Currency": "1.718",
+            "USD": "1.798"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.217",
+            "USD": "0.227"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.19",
+            "USD": "0.199"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

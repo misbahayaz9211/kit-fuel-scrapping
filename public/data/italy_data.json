@@ -1,0 +1,64 @@
+{
+    "country": "Italy",
+    "data": {
+        "Diesel prices": {
+            "Date": "27.11.2023",
+            "Currency": "1.792",
+            "USD": "1.97"
+        },
+        "Gasoline prices": {
+            "Date": "27.11.2023",
+            "Currency": "1.809",
+            "USD": "1.989"
+        },
+        "Methane prices": {
+            "Date": "27.11.2023",
+            "Currency": "1.456",
+            "USD": "1.6"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "27.11.2023",
+            "Currency": "1.566",
+            "USD": "1.721"
+        },
+        "LPG prices": {
+            "Date": "27.11.2023",
+            "Currency": "0.723",
+            "USD": "0.795"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.533",
+            "USD": "0.586"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.587",
+            "USD": "0.645"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.224",
+            "USD": "0.246 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.253",
+            "USD": "0.278 USD"
+        }
+    }
+}

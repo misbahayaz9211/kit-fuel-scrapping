@@ -1,0 +1,64 @@
+{
+    "country": "Brazil",
+    "data": {
+        "Diesel prices": {
+            "Date": "18.12.2023",
+            "Currency": "5.95",
+            "USD": "1.222"
+        },
+        "Gasoline prices": {
+            "Date": "18.12.2023",
+            "Currency": "5.61",
+            "USD": "1.152"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "18.12.2023",
+            "Currency": "3.51",
+            "USD": "0.721"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.815",
+            "USD": "0.167"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.704",
+            "USD": "0.145"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "1.176",
+            "USD": "0.242 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.669",
+            "USD": "0.137 USD"
+        }
+    }
+}

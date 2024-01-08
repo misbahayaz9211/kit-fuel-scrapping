@@ -1,0 +1,64 @@
+{
+    "country": "France",
+    "data": {
+        "Diesel prices": {
+            "Date": "16.10.2023",
+            "Currency": "1.848",
+            "USD": "1.951"
+        },
+        "Gasoline prices": {
+            "Date": "16.10.2023",
+            "Currency": "1.816",
+            "USD": "1.917"
+        },
+        "Methane prices": {
+            "Date": "16.10.2023",
+            "Currency": "1.078",
+            "USD": "1.138"
+        },
+        "Ethanol prices": {
+            "Date": "16.10.2023",
+            "Currency": "1.034",
+            "USD": "1.092"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "16.10.2023",
+            "Currency": "1.339",
+            "USD": "1.413"
+        },
+        "LPG prices": {
+            "Date": "16.10.2023",
+            "Currency": "0.986",
+            "USD": "1.041"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.202",
+            "USD": "0.213"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.225",
+            "USD": "0.238"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.144",
+            "USD": "0.152 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.109",
+            "USD": "0.115 USD"
+        }
+    }
+}

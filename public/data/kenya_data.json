@@ -1,0 +1,64 @@
+{
+    "country": "Kenya",
+    "data": {
+        "Diesel prices": {
+            "Date": "04.12.2023",
+            "Currency": "209.438",
+            "USD": "1.367"
+        },
+        "Gasoline prices": {
+            "Date": "04.12.2023",
+            "Currency": "219.074",
+            "USD": "1.43"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "04.12.2023",
+            "Currency": "209.056",
+            "USD": "1.364"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "26.29",
+            "USD": "0.172"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "22.39",
+            "USD": "0.146"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "country": "Iraq",
+    "data": {
+        "Diesel prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Gasoline prices": {
+            "Date": "27.11.2023",
+            "Currency": "750",
+            "USD": "0.573"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "19.375",
+            "USD": "0.015"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "60",
+            "USD": "0.046"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

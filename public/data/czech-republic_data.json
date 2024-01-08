@@ -1,0 +1,64 @@
+{
+    "country": "Czech-Republic",
+    "data": {
+        "Diesel prices": {
+            "Date": "16.10.2023",
+            "Currency": "40.38",
+            "USD": "1.729"
+        },
+        "Gasoline prices": {
+            "Date": "16.10.2023",
+            "Currency": "40.11",
+            "USD": "1.718"
+        },
+        "Methane prices": {
+            "Date": "16.10.2023",
+            "Currency": "37.44",
+            "USD": "1.603"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "16.10.2023",
+            "Currency": "27.645",
+            "USD": "1.184"
+        },
+        "LPG prices": {
+            "Date": "16.10.2023",
+            "Currency": "15.58",
+            "USD": "0.667"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "8.775",
+            "USD": "0.376"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "4.77",
+            "USD": "0.204"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "3.151",
+            "USD": "0.135 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "2.549",
+            "USD": "0.109 USD"
+        }
+    }
+}

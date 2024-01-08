@@ -1,0 +1,64 @@
+{
+    "country": "Togo",
+    "data": {
+        "Diesel prices": {
+            "Date": "16.10.2023",
+            "Currency": "850",
+            "USD": "1.365"
+        },
+        "Gasoline prices": {
+            "Date": "16.10.2023",
+            "Currency": "700",
+            "USD": "1.125"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "16.10.2023",
+            "Currency": "650",
+            "USD": "1.044"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "115.88",
+            "USD": "0.186"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "106.93",
+            "USD": "0.172"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

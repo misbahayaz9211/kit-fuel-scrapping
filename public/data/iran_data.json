@@ -1,0 +1,64 @@
+{
+    "country": "Iran",
+    "data": {
+        "Diesel prices": {
+            "Date": "25.12.2023",
+            "Currency": "3000",
+            "USD": "0.006"
+        },
+        "Gasoline prices": {
+            "Date": "25.12.2023",
+            "Currency": "15000",
+            "USD": "0.029"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "25.12.2023",
+            "Currency": "1500",
+            "USD": "0.003"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.06.2023",
+            "Currency": "1310",
+            "USD": "0.002"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.06.2023",
+            "Currency": "368",
+            "USD": "0.001 USD"
+        },
+        "Business": {
+            "Date": "01.06.2023",
+            "Currency": "138",
+            "USD": "0 USD"
+        }
+    }
+}

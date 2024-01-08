@@ -1,0 +1,64 @@
+{
+    "country": "Pakistan",
+    "data": {
+        "Diesel prices": {
+            "Date": "25.12.2023",
+            "Currency": "276.21",
+            "USD": "0.978"
+        },
+        "Gasoline prices": {
+            "Date": "25.12.2023",
+            "Currency": "267.34",
+            "USD": "0.946"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "25.12.2023",
+            "Currency": "191.02",
+            "USD": "0.676"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.06.2023",
+            "Currency": "15.94",
+            "USD": "0.056"
+        },
+        "Business": {
+            "Date": "01.06.2023",
+            "Currency": "37.53",
+            "USD": "0.133"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

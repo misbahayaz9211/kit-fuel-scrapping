@@ -1,0 +1,64 @@
+{
+    "country": "Thailand",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "29.94",
+            "USD": "0.838"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "43.034",
+            "USD": "1.205"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "11.12.2023",
+            "Currency": "32.79",
+            "USD": "0.918"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "4.868",
+            "USD": "0.136"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "5.533",
+            "USD": "0.155"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

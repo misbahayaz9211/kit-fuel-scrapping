@@ -1,0 +1,64 @@
+{
+    "country": "Denmark",
+    "data": {
+        "Diesel prices": {
+            "Date": "13.11.2023",
+            "Currency": "13.565",
+            "USD": "1.978"
+        },
+        "Gasoline prices": {
+            "Date": "13.11.2023",
+            "Currency": "14.465",
+            "USD": "2.11"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "13.11.2023",
+            "Currency": "14.749",
+            "USD": "2.151"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "2.396",
+            "USD": "0.349"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1.632",
+            "USD": "0.238"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "1.31",
+            "USD": "0.191 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1.058",
+            "USD": "0.154 USD"
+        }
+    }
+}

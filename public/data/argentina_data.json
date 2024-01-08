@@ -1,0 +1,64 @@
+{
+    "country": "Argentina",
+    "data": {
+        "Diesel prices": {
+            "Date": "25.12.2023",
+            "Currency": "724.405",
+            "USD": "0.903"
+        },
+        "Gasoline prices": {
+            "Date": "25.12.2023",
+            "Currency": "662.359",
+            "USD": "0.826"
+        },
+        "Methane prices": {
+            "Date": "25.12.2023",
+            "Currency": "251.503",
+            "USD": "0.313"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.06.2023",
+            "Currency": "12.32",
+            "USD": "0.015"
+        },
+        "Business": {
+            "Date": "01.06.2023",
+            "Currency": "17.81",
+            "USD": "0.022"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.06.2023",
+            "Currency": "7.248",
+            "USD": "0.009 USD"
+        },
+        "Business": {
+            "Date": "01.06.2023",
+            "Currency": "2.447",
+            "USD": "0.003 USD"
+        }
+    }
+}

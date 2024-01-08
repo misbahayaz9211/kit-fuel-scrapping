@@ -1,0 +1,64 @@
+{
+    "country": "Belgium",
+    "data": {
+        "Diesel prices": {
+            "Date": "30.10.2023",
+            "Currency": "1.87",
+            "USD": "1.977"
+        },
+        "Gasoline prices": {
+            "Date": "30.10.2023",
+            "Currency": "1.73",
+            "USD": "1.829"
+        },
+        "Methane prices": {
+            "Date": "30.10.2023",
+            "Currency": "1.349",
+            "USD": "1.427"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "30.10.2023",
+            "Currency": "1.333",
+            "USD": "1.41"
+        },
+        "Heating Oil prices": {
+            "Date": "30.10.2023",
+            "Currency": "1.164",
+            "USD": "1.231"
+        },
+        "LPG prices": {
+            "Date": "30.10.2023",
+            "Currency": "0.719",
+            "USD": "0.76"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.398",
+            "USD": "0.421"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.177",
+            "USD": "0.187"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.109",
+            "USD": "0.115 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.082",
+            "USD": "0.087 USD"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "country": "Guatemala",
+    "data": {
+        "Diesel prices": {
+            "Date": "02.10.2023",
+            "Currency": "9.412",
+            "USD": "1.198"
+        },
+        "Gasoline prices": {
+            "Date": "02.10.2023",
+            "Currency": "10.128",
+            "USD": "1.289"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "02.10.2023",
+            "Currency": "10.303",
+            "USD": "1.312"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "2.293",
+            "USD": "0.292"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "1.377",
+            "USD": "0.175"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

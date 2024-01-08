@@ -1,0 +1,64 @@
+{
+    "country": "Bahrain",
+    "data": {
+        "Diesel prices": {
+            "Date": "13.11.2023",
+            "Currency": "0.18",
+            "USD": "0.477"
+        },
+        "Gasoline prices": {
+            "Date": "13.11.2023",
+            "Currency": "0.2",
+            "USD": "0.531"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "13.11.2023",
+            "Currency": "0.16",
+            "USD": "0.424"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.018",
+            "USD": "0.048"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.029",
+            "USD": "0.077"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.005",
+            "USD": "0.013 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.005",
+            "USD": "0.013 USD"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "country": "Norway",
+    "data": {
+        "Diesel prices": {
+            "Date": "18.09.2023",
+            "Currency": "22.68",
+            "USD": "2.104"
+        },
+        "Gasoline prices": {
+            "Date": "18.09.2023",
+            "Currency": "23.57",
+            "USD": "2.186"
+        },
+        "Methane prices": "",
+        "Ethanol prices": "",
+        "Kerosene prices": "",
+        "Heating Oil prices": {
+            "Date": "18.09.2023",
+            "Currency": "14.6",
+            "USD": "1.354"
+        },
+        "LPG prices": ""
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "1.944",
+            "USD": "0.18"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "2.106",
+            "USD": "0.195"
+        }
+    },
+    "naturalGasPrices": []
+}

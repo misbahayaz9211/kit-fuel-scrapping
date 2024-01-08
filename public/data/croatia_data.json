@@ -1,0 +1,64 @@
+{
+    "country": "Croatia",
+    "data": {
+        "Diesel prices": {
+            "Date": "02.10.2023",
+            "Currency": "1.73",
+            "USD": "1.811"
+        },
+        "Gasoline prices": {
+            "Date": "02.10.2023",
+            "Currency": "1.643",
+            "USD": "1.72"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "02.10.2023",
+            "Currency": "1.195",
+            "USD": "1.251"
+        },
+        "LPG prices": {
+            "Date": "02.10.2023",
+            "Currency": "0.911",
+            "USD": "0.954"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.151",
+            "USD": "0.158"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.194",
+            "USD": "0.203"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

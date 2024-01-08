@@ -1,0 +1,64 @@
+{
+    "country": "USA",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "1.053",
+            "USD": "1.053"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "0.912",
+            "USD": "0.912"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "11.12.2023",
+            "Currency": "0.667",
+            "USD": "0.667"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.178",
+            "USD": "0.178"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.142",
+            "USD": "0.142"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.05",
+            "USD": "0.05 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.043",
+            "USD": "0.043 USD"
+        }
+    }
+}

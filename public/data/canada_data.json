@@ -1,0 +1,64 @@
+{
+    "country": "Canada",
+    "data": {
+        "Diesel prices": {
+            "Date": "25.12.2023",
+            "Currency": "1.706",
+            "USD": "1.293"
+        },
+        "Gasoline prices": {
+            "Date": "25.12.2023",
+            "Currency": "1.653",
+            "USD": "1.253"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "25.12.2023",
+            "Currency": "1.61",
+            "USD": "1.22"
+        },
+        "LPG prices": {
+            "Date": "25.12.2023",
+            "Currency": "1.275",
+            "USD": "0.966"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.06.2023",
+            "Currency": "0.165",
+            "USD": "0.125"
+        },
+        "Business": {
+            "Date": "01.06.2023",
+            "Currency": "0.138",
+            "USD": "0.105"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.06.2023",
+            "Currency": "0.052",
+            "USD": "0.039 USD"
+        },
+        "Business": {
+            "Date": "01.06.2023",
+            "Currency": "0.035",
+            "USD": "0.027 USD"
+        }
+    }
+}

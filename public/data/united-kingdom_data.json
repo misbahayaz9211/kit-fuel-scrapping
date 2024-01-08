@@ -1,0 +1,52 @@
+{
+    "country": "United-Kingdom",
+    "data": {
+        "Diesel prices": {
+            "Date": "18.09.2023",
+            "Currency": "1.582",
+            "USD": "1.96"
+        },
+        "Gasoline prices": {
+            "Date": "18.09.2023",
+            "Currency": "1.541",
+            "USD": "1.909"
+        },
+        "Methane prices": "",
+        "Ethanol prices": "",
+        "Kerosene prices": "",
+        "Heating Oil prices": {
+            "Date": "18.09.2023",
+            "Currency": "0.877",
+            "USD": "1.087"
+        },
+        "LPG prices": {
+            "Date": "18.09.2023",
+            "Currency": "0.776",
+            "USD": "0.962"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "0.387",
+            "USD": "0.48"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "0.352",
+            "USD": "0.436"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "0.1",
+            "USD": "0.124 USD"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "0.078",
+            "USD": "0.097 USD"
+        }
+    }
+}

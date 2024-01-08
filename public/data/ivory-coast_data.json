@@ -1,0 +1,64 @@
+{
+    "country": "Ivory-Coast",
+    "data": {
+        "Diesel prices": {
+            "Date": "13.11.2023",
+            "Currency": "715",
+            "USD": "1.166"
+        },
+        "Gasoline prices": {
+            "Date": "13.11.2023",
+            "Currency": "875",
+            "USD": "1.427"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "13.11.2023",
+            "Currency": "745",
+            "USD": "1.215"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "72.604",
+            "USD": "0.118"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "123.26",
+            "USD": "0.201"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

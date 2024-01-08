@@ -1,0 +1,64 @@
+{
+    "country": "Costa-Rica",
+    "data": {
+        "Diesel prices": {
+            "Date": "20.11.2023",
+            "Currency": "714",
+            "USD": "1.345"
+        },
+        "Gasoline prices": {
+            "Date": "20.11.2023",
+            "Currency": "807",
+            "USD": "1.52"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "20.11.2023",
+            "Currency": "639",
+            "USD": "1.203"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "80.518",
+            "USD": "0.152"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "112.05",
+            "USD": "0.211"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "country": "Switzerland",
+    "data": {
+        "Diesel prices": {
+            "Date": "18.09.2023",
+            "Currency": "2.06",
+            "USD": "2.295"
+        },
+        "Gasoline prices": {
+            "Date": "18.09.2023",
+            "Currency": "1.915",
+            "USD": "2.133"
+        },
+        "Methane prices": {
+            "Date": "18.09.2023",
+            "Currency": "1.4",
+            "USD": "1.559"
+        },
+        "Ethanol prices": {
+            "Date": "18.09.2023",
+            "Currency": "1.647",
+            "USD": "1.834"
+        },
+        "Kerosene prices": "",
+        "Heating Oil prices": "",
+        "LPG prices": {
+            "Date": "18.09.2023",
+            "Currency": "1.148",
+            "USD": "1.278"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "0.3",
+            "USD": "0.334"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "0.233",
+            "USD": "0.26"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.12.2022",
+            "Currency": "0.174",
+            "USD": "0.194 USD"
+        },
+        "Business": {
+            "Date": "01.12.2022",
+            "Currency": "0.15",
+            "USD": "0.167 USD"
+        }
+    }
+}

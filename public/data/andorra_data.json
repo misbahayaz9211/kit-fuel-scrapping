@@ -1,0 +1,22 @@
+{
+    "country": "Andorra",
+    "data": {
+        "Gasoline prices": {
+            "Date": "11.09.2023",
+            "Currency": "1.546",
+            "USD": "1.663"
+        },
+        "Diesel prices": {
+            "Date": "11.09.2023",
+            "Currency": "1.454",
+            "USD": "1.564"
+        },
+        "Heating Oil prices": {
+            "Date": "11.09.2023",
+            "Currency": "1.073",
+            "USD": "1.154"
+        }
+    },
+    "electricityPrices": [],
+    "naturalGasPrices": []
+}

@@ -1,0 +1,64 @@
+{
+    "country": "Aruba",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "2.272",
+            "USD": "1.262"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "2.377",
+            "USD": "1.321"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "11.12.2023",
+            "Currency": "2.165",
+            "USD": "1.203"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.408",
+            "USD": "0.227"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.613",
+            "USD": "0.341"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

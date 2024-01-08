@@ -1,0 +1,64 @@
+{
+    "country": "Russia",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "64.49",
+            "USD": "0.716"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "54.62",
+            "USD": "0.606"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "11.12.2023",
+            "Currency": "33.675",
+            "USD": "0.374"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "5.377",
+            "USD": "0.06"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "7.647",
+            "USD": "0.085"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.608",
+            "USD": "0.007 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.685",
+            "USD": "0.008 USD"
+        }
+    }
+}

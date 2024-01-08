@@ -1,0 +1,64 @@
+{
+    "country": "Bangladesh",
+    "data": {
+        "Diesel prices": {
+            "Date": "18.12.2023",
+            "Currency": "109",
+            "USD": "0.994"
+        },
+        "Gasoline prices": {
+            "Date": "18.12.2023",
+            "Currency": "125",
+            "USD": "1.14"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "18.12.2023",
+            "Currency": "109",
+            "USD": "0.994"
+        },
+        "Heating Oil prices": {
+            "Date": "18.12.2023",
+            "Currency": "84",
+            "USD": "0.766"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "5.913",
+            "USD": "0.054"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "9.43",
+            "USD": "0.086"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "1.657",
+            "USD": "0.015 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "2.762",
+            "USD": "0.025 USD"
+        }
+    }
+}

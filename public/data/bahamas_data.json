@@ -1,0 +1,64 @@
+{
+    "country": "Bahamas",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "1.488",
+            "USD": "1.489"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "1.42",
+            "USD": "1.421"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.358",
+            "USD": "0.358"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.35",
+            "USD": "0.35"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

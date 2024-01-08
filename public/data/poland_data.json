@@ -1,0 +1,64 @@
+{
+    "country": "Poland",
+    "data": {
+        "Diesel prices": {
+            "Date": "30.10.2023",
+            "Currency": "6.141",
+            "USD": "1.46"
+        },
+        "Gasoline prices": {
+            "Date": "30.10.2023",
+            "Currency": "6.115",
+            "USD": "1.454"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "30.10.2023",
+            "Currency": "5.603",
+            "USD": "1.332"
+        },
+        "LPG prices": {
+            "Date": "30.10.2023",
+            "Currency": "3.098",
+            "USD": "0.737"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.951",
+            "USD": "0.226"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "2.09",
+            "USD": "0.497"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "0.357",
+            "USD": "0.085 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "0.286",
+            "USD": "0.068 USD"
+        }
+    }
+}

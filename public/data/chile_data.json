@@ -1,0 +1,64 @@
+{
+    "country": "Chile",
+    "data": {
+        "Diesel prices": {
+            "Date": "27.11.2023",
+            "Currency": "1053.1",
+            "USD": "1.211"
+        },
+        "Gasoline prices": {
+            "Date": "27.11.2023",
+            "Currency": "1317.8",
+            "USD": "1.515"
+        },
+        "Methane prices": {
+            "Date": "27.11.2023",
+            "Currency": "684.625",
+            "USD": "0.787"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "27.11.2023",
+            "Currency": "1217",
+            "USD": "1.4"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "27.11.2023",
+            "Currency": "577.4",
+            "USD": "0.664"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "148.689",
+            "USD": "0.171"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "111.02",
+            "USD": "0.128"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "106.42",
+            "USD": "0.122 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "46.93",
+            "USD": "0.054 USD"
+        }
+    }
+}

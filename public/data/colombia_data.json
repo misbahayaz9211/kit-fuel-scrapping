@@ -1,0 +1,64 @@
+{
+    "country": "Colombia",
+    "data": {
+        "Diesel prices": {
+            "Date": "20.11.2023",
+            "Currency": "2394.72",
+            "USD": "0.586"
+        },
+        "Gasoline prices": {
+            "Date": "20.11.2023",
+            "Currency": "3847.4",
+            "USD": "0.942"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "743.68",
+            "USD": "0.182"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "715.2",
+            "USD": "0.175"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "237.84",
+            "USD": "0.058 USD"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "219.61",
+            "USD": "0.054 USD"
+        }
+    }
+}

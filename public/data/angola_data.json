@@ -1,0 +1,64 @@
+{
+    "country": "Angola",
+    "data": {
+        "Diesel prices": {
+            "Date": "13.11.2023",
+            "Currency": "135",
+            "USD": "0.162"
+        },
+        "Gasoline prices": {
+            "Date": "13.11.2023",
+            "Currency": "300",
+            "USD": "0.361"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Heating Oil prices": {
+            "Date": "13.11.2023",
+            "Currency": "70",
+            "USD": "0.084"
+        },
+        "LPG prices": {
+            "Date": "13.11.2023",
+            "Currency": "100",
+            "USD": "0.12"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "11.83",
+            "USD": "0.014"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "9.64",
+            "USD": "0.012"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "country": "Nepal",
+    "data": {
+        "Diesel prices": {
+            "Date": "11.12.2023",
+            "Currency": "160",
+            "USD": "1.2"
+        },
+        "Gasoline prices": {
+            "Date": "11.12.2023",
+            "Currency": "170",
+            "USD": "1.275"
+        },
+        "Methane prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Ethanol prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Kerosene prices": {
+            "Date": "11.12.2023",
+            "Currency": "160",
+            "USD": "1.2"
+        },
+        "Heating Oil prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "LPG prices": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    },
+    "electricityPrices": {
+        "Households": {
+            "Date": "01.03.2023",
+            "Currency": "5.79",
+            "USD": "0.043"
+        },
+        "Business": {
+            "Date": "01.03.2023",
+            "Currency": "9.37",
+            "USD": "0.07"
+        }
+    },
+    "naturalGasPrices": {
+        "Households": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        },
+        "Business": {
+            "Date": "-",
+            "Currency": "-",
+            "USD": "-"
+        }
+    }
+}
